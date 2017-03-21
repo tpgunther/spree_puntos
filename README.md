@@ -1,7 +1,7 @@
 SpreePuntos
 ===========
 
-Introduction goes here.
+Create a abstraction to integrate an extra payment method which use a web service. You can pay with more than one payment method. You have to implement the concrete payment in order to process the orders.
 
 Installation
 ------------
@@ -36,4 +36,4 @@ Simply add this require statement to your spec_helper:
 require 'spree_puntos/factories'
 ```
 
-Copyright (c) 2017 [name of extension creator], released under the New BSD License
+Copyright (c) 2017 Tomás Günther, released under the New BSD License
